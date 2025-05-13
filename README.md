@@ -32,7 +32,10 @@ It contains the following features:-
 
 Output
 
+![Screenshot 2025-05-13 165709](https://github.com/user-attachments/assets/a6289b76-7f3e-4de5-b8f5-3b32e4a50f53)
 ![Screenshot 2025-05-13 170126](https://github.com/user-attachments/assets/58b37a90-22ed-4f83-a98e-53f9b376fea6)
 ![Screenshot 2025-05-13 165749](https://github.com/user-attachments/assets/57be25dd-969d-4e93-b40c-7a9b03a65078)
-![Screenshot 2025-05-13 165709](https://github.com/user-attachments/assets/a6289b76-7f3e-4de5-b8f5-3b32e4a50f53)
+![Screenshot 2025-05-13 165905](https://github.com/user-attachments/assets/1b6ae808-8bf4-44b6-b31f-6cf4177cef98)
+
+
 
